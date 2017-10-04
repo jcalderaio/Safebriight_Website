@@ -83,7 +83,6 @@ hr.star-primary:after {
 p {
   font-size: 2.8vmin;
 }
-*/
 
 /* So on a small screen the home heading gets smaller */
 @media (max-width: 992px) {
@@ -261,4 +260,7 @@ p {
 }
 .silvertext:hover {
 	color: #878787;
+}
+.antispam {
+    display: none;
 }
